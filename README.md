@@ -5,9 +5,6 @@ Repo: git@github.com:ucsb-cs156-s25/jpa02-llexuan.git
 https://jpa02-llexuan.dokku-01.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
-
-
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
